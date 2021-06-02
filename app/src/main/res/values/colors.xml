@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="whiteboard_default_marker_color">@android:color/black</color>
+    <!--TODO: white color as eraser won't work with backgrounds other than white-->
+    <color name="whiteboard_default_eraser_color">#ffffff</color>
+    <dimen name="whiteboard_marker_thickness">@dimen/black</dimen>
+    <dimen name="black">dime</dimen>
+</resources>

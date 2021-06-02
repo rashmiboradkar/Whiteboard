@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <declare-styleable name="WhiteboardView"></declare-styleable>
+    <declare-styleable name="WhiteboardView_markerColor"></declare-styleable>
+    <declare-styleable name="WhiteboardView_markerThickness"></declare-styleable>
+    <declare-styleable name="WhiteboardView_touchMode"></declare-styleable>
+</resources>
